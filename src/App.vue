@@ -13,7 +13,7 @@
   <li class="nav-btn"><a href="#work" data-hover="Work">Work</a></li>
   <li class="nav-btn"><a href="#education" data-hover="Education">Education</a></li>
   <li class="nav-btn"><a href="#contact" data-hover="Contact">Contact</a></li>
-  <li><h2>(Work in progress)</h2></li>
+  <li><h2>(Work in prgress)</h2></li>
   
 </ul>
   </header>
